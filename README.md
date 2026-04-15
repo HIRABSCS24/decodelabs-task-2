@@ -23,3 +23,6 @@ this is my secod project of decodelabs. in this project i have created responsiv
 ​*)Design Philosophy
 
 ​"Build from the content out." This project represents the vital bridge between a static site and a professional, multi-device web experience.
+
+live link of my project/task
+https://hirabscs24.github.io/decodelabs-task-2/
